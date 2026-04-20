@@ -33,6 +33,6 @@
 | list of product advantages | pros | div.review-feature__item--positive |
 | list of product disadvantages | cons | div.review-feature__item--negative |
 | how many users think that opinion was helpful | helpful | button.vote-yes > span |
-| how many users think that opinion was unhelpful | unhelpful | button.vote-no > span |
+| how many users think that opinion was unhelpful | unhelpful |      |
 | publishing date | publish_date | span.user-post__published > time:nth-child(1)[datetime] |
 | purchase date | purchase_date | span.user-post__published > time:nth-child(2)[datetime] |
