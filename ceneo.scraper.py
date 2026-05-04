@@ -1,6 +1,10 @@
 import os
 import json
 import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
 product_code = input("Provide product code: ")
@@ -11,7 +15,14 @@ headers = {
     "Cookie": "sv3=1.0_566eaee8-3cbb-11f1-b935-43a602f95b54; urdsc=1; userCeneo=ID=cf7af9ed-4a9d-4284-882d-dce9c",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0"
 }
+    url = f"https://www.ceneo.pl/{product_code}/opinie-{page}"
 
+    path_to_driver = "D://chromedriver_win32??chromedriver.exe"
+    s = Service(path_to_driver)
+    driver = webdriver.Chrome(service=s)
+    driver.get(url)
+    driver.maximize_window()
+    driver.find_element(by="xpath", value=)//*[@id="js_cookie-consent-general"]/div/div[2]/button[1].click()
 all_opinions = []
 while next:
     url = f"https://www.ceneo.pl/{product_code}/opinie-{page}"
