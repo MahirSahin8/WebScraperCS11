@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UEK Schedule//PL
+BEGIN:VEVENT
+SUMMARY:Computer Programming 2 (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260518T131500
+DTEND;TZID=Europe/Warsaw:20260518T154500
+DESCRIPTION:Nauczyciel: dr Katarzyna Wójcik
+LOCATION:Paw.A 013 lab.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probability and Statistics (wykład)
+DTSTART;TZID=Europe/Warsaw:20260519T094500
+DTEND;TZID=Europe/Warsaw:20260519T111500
+DESCRIPTION:Nauczyciel: prof. dr hab. Andrzej Sokołowski
+LOCATION:Paw.F 008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete mathematics (wykład)
+DTSTART;TZID=Europe/Warsaw:20260519T150000
+DTEND;TZID=Europe/Warsaw:20260519T163000
+DESCRIPTION:Nauczyciel: dr Grzegorz Kosiorowski
+LOCATION:Rakowicka 16 sala 11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business Law (wykład)
+DTSTART;TZID=Europe/Warsaw:20260519T183000
+DTEND;TZID=Europe/Warsaw:20260519T200000
+DESCRIPTION:Nauczyciel: dr Jacek Lachner
+LOCATION:Rakowicka 16 sala 11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260520T131500
+DTEND;TZID=Europe/Warsaw:20260520T144500
+DESCRIPTION:Nauczyciel: prof. UEK dr hab. Joanna Wyrobek
+LOCATION:Paw.A 014 lab.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete mathematics (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260520T150000
+DTEND;TZID=Europe/Warsaw:20260520T163000
+DESCRIPTION:Nauczyciel: dr Igor Sikora
+LOCATION:Paw.U sala N
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operating Systems and Computer Networks (wykład)
+DTSTART;TZID=Europe/Warsaw:20260521T080000
+DTEND;TZID=Europe/Warsaw:20260521T093000
+DESCRIPTION:Nauczyciel: prof. UEK dr hab. Joanna Wyrobek
+LOCATION:Paw.F 008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete mathematics (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260521T131500
+DTEND;TZID=Europe/Warsaw:20260521T144500
+DESCRIPTION:Nauczyciel: dr Igor Sikora
+LOCATION:Paw.B 052 (KSB)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260521T150000
+DTEND;TZID=Europe/Warsaw:20260521T163000
+DESCRIPTION:Nauczyciel: prof. UEK dr hab. Joanna Wyrobek
+LOCATION:Paw.A 07 lab.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Information Systems (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260521T164500
+DTEND;TZID=Europe/Warsaw:20260521T181500
+DESCRIPTION:Nauczyciel: mgr inż. Justyna Olczak
+LOCATION:Bibl.425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computer Programming 2 (wykład)
+DTSTART;TZID=Europe/Warsaw:20260525T094500
+DTEND;TZID=Europe/Warsaw:20260525T111500
+DESCRIPTION:Nauczyciel: dr Katarzyna Wójcik
+LOCATION:Paw.F 008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computer Programming 2 (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260525T131500
+DTEND;TZID=Europe/Warsaw:20260525T154500
+DESCRIPTION:Nauczyciel: dr Katarzyna Wójcik
+LOCATION:Paw.A 013 lab.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probability and Statistics (wykład)
+DTSTART;TZID=Europe/Warsaw:20260526T094500
+DTEND;TZID=Europe/Warsaw:20260526T111500
+DESCRIPTION:Nauczyciel: prof. dr hab. Andrzej Sokołowski
+LOCATION:Paw.F 008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business Law (wykład)
+DTSTART;TZID=Europe/Warsaw:20260526T183000
+DTEND;TZID=Europe/Warsaw:20260526T200000
+DESCRIPTION:Nauczyciel: dr Jacek Lachner
+LOCATION:Rakowicka 16 sala 11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Information Systems (wykład)
+DTSTART;TZID=Europe/Warsaw:20260527T131500
+DTEND;TZID=Europe/Warsaw:20260527T144500
+DESCRIPTION:Nauczyciel: prof. UEK dr hab. Mariusz Grabowski
+LOCATION:Paw.F 008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discrete mathematics (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260527T150000
+DTEND;TZID=Europe/Warsaw:20260527T163000
+DESCRIPTION:Nauczyciel: dr Igor Sikora
+LOCATION:Paw.U sala N
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computer Programming 2 (ćwiczenia)
+DTSTART;TZID=Europe/Warsaw:20260601T131500
+DTEND;TZID=Europe/Warsaw:20260601T154500
+DESCRIPTION:Nauczyciel: dr Katarzyna Wójcik
+LOCATION:Paw.A 013 lab.
+END:VEVENT
+END:VCALENDAR
